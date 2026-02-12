@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "決戦スピリット／CHiCO with HoneyWorks【Hanon ver.】",
+  "base_artist": "Hanon",
+  "createdAt": "2026-02-12T05:32:16.323160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_決戦スピリット_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_決戦スピリット_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_決戦スピリット_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "Hanon",
+      "has_synced": true,
+      "path": "select/04_決戦スピリット_Hanon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_決戦スピリット_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "hololive × HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_決戦スピリット_hololive_×_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "決戦スピリット",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/07_決戦スピリット_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "決戦スピリット (决战精神)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_決戦スピリット_(决战精神)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "決戦スピリット - Kessen spirit",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_決戦スピリット_-_Kessen_spirit_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kessen Spirit (決戦スピリット)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_Kessen_Spirit_(決戦スピリット)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "決戦スピリット (2025.08.29 Premium Studio Live)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_決戦スピリット_(2025.08.29_Premium_Studio_Live)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決戦スピリット (Cover)",
+      "artist": "Hanon",
+      "has_synced": false,
+      "path": "select/pl_01_決戦スピリット_(Cover)_Hanon.txt"
+    }
+  ]
+}
